@@ -504,3 +504,6 @@ p{
     transition: cubic-bezier(0.55, 0.055, 0.675, 0.19) 200ms;
     color: #fff;
 }
+.text-center{
+    width: 400px;
+}
