@@ -202,9 +202,7 @@ function Explore() {
                                 })
                             ) : (
                                 <div className="text-center">
-                                    <h3>
-                                        Data Tidak Ditemukan.
-                                    </h3>
+                                    
                                 </div>
                             )
                             }
